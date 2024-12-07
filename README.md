@@ -13,4 +13,6 @@ This is the statement to where [I will be discussing what I am looking forward t
 
 ## My EC Project
 
+Here is the link to some [reflections on my collaborative EC project](myecproject.html)!
+
 ![cho1](cho1.png)
