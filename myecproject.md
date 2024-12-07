@@ -12,3 +12,9 @@ Below are some pictures taken throughout the course of the collaborative project
 ![vasu](vasu2.png)
 ![article](article2.png)
 ![final](final2.png)
+
+Top: We found an actual picture of the ESP baseball field in the early 1900s with guard posts surrounding it.
+Middle left: A rough sketch of how our 3D model would resemble.
+Middle right: Vasu holding up his Tinkercad software design for our 3D model.
+Bottom left: A portion of our article regarding the 1913 ESP season that was linked to one of our NFC tags.
+Bottom right: The final 3D printed ESP baseball field with NFC tags attached to bases.
