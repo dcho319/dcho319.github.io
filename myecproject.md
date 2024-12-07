@@ -7,11 +7,11 @@
 ##### There were many successes to our project, including not having any unnecessary disputes/fights over the course of the assignment, everyone completing their work seamlessly in a timely manner, and producing something tangible that contains data from The Umpire that are worthy of sharing. In terms of a failure, I would say that one failure is not sharing everyone’s ideas regarding the project’s theme. When I proposed my idea, everyone agreed that it was a great idea and we all went on with it, but I think it would have been worthy to listen to individual opinions for about 30-40 minutes and vote for the optimal solution before we proceeded. One more thing to improve on would be that we could have met one more time before our in-class presentation to go over the overall flow and details such as when/how we will do a demo on our 3D model. Due to the time constraints, with the Thanksgiving break a week prior, it was a little difficult for us to find a perfect time to practice and go over one last time.
 
 Below are some pictures taken throughout the course of the collaborative project:
-![espfield](espfield2.png)
-![sketch](sketch2.png)
-![vasu](vasu2.png)
-![article](article2.png)
-![final](final2.png)
+![espfield2](espfield2.png)
+![sketch2](sketch2.png)
+![vasu2](vasu2.png)
+![article2](article2.png)
+![final2](final2.png)
 
 Top: We found an actual picture of the ESP baseball field in the early 1900s with guard posts surrounding it.
 Middle left: A rough sketch of how our 3D model would resemble.
