@@ -1,6 +1,7 @@
 # My Exploration of Digital Humanities
 
 Hello world! This is my page. Welcome!!
+I am Daniel and I'm a researcher in the field of digital humanities. I have been a student in ENGL 1650 Introduction to Digital Humanities throughout Fall 2024 semester, and this is my final portfolio highlighting my hard work throughout the past four months. 
 
 ## About Me
 
