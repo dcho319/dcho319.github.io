@@ -19,7 +19,7 @@ Below are some pictures taken during a workshop, class visit, or while working o
 ![pipm2](pipm2.png)
 ![esp](esp.png)
 
-Note:
+Photos from the top: 1) Python for Humanists workshop  2) Cassette tape workshop at Iffy Books  3) SCETI & Kislak Center visit  4,5) Printing in Prisons blog page  6) Eastern State Penitentiary visit
 
 
 Enjoy reading a separate [reflection on my collaborative EC project with photos](myecproject.html)!
