@@ -11,6 +11,7 @@ The collaborative EC project was something different in a way that we were not u
 I discovered a new interest during the semester, as I enjoyed playing with different features that made composing and reading both more interesting and special. Learning about different types of Markdown syntax made my blog post more accessible for the audience, and putting NFC tags on a physical 3D printed object made the audience feel like they are in the ESP baseball field, making the reading experience more enjoyable. I believe that I did well both in my own work and the collaborative work, as I loved brainstorming creative ideas and ways to make my project more special. My Printing in Prisons blog and EC project both required a tremendous amount of research and writing/editing, but in the end, I do not regret much on how I would have done differently. I would have liked to learn more about Markdown techniques and computer languages, but I can continue to learn these skills on my own or by taking an online course. Overall, I am very satisfied with my projects in digital humanities.
 
 Below are some pictures taken during a workshop, class visit, or while working on a project:
+
 ![pythonm](pythonm.png)
 ![cassettem](cassettem.png)
 ![SCETIm](SCETIm.png)
